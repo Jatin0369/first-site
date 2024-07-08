@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Gruppo&display=swap');
+.font-class{
+    font-family: 'Gruppo', sans-serif;
+    font-weight: 600;
+}
+.heading-1{
+    /* color: white; */
+    border-bottom: 1px solid white;
+    margin-top: -2vw;
+}
+
+.main-heading-1{
+    /* border: 1px solid seagreen; */
+    font-size: 8vw;
+    text-transform: uppercase;
+    margin: 0;
+    margin-left: 2vw;
+    padding: 2vw;
+    color: white;
+}
+.cont{
+    height: 85vh;
+    width: 95vw;
+    margin: auto ;
+    margin-top: 2vw;
+    /* border: 5px solid red; */
+    /* background-color: black; */
+    border-radius: 20px;
+    /* background-image: linear-gradient(to right, grey, white); */
+    background: linear-gradient(0.25turn,black,black,black,  #3f87a6be,rgba(187, 91, 91, 0.841), #f69c3cd1,black, black, black);
+    /* background: linear-gradient(0.25turn,black 40%,  #3f87a6,rgb(187, 91, 91), #f69d3c,black 40%); */
+}
+.flex-cont{
+    /* border: 1px yellow green; */
+    display: flex;
+}
+.form{
+    /* border: 1px solid red; */
+    min-height: 40vh;
+    /* display: block; */
+    min-width: 50%;
+    margin-left: 4vw;
+}
+.info-ask{
+    margin: 1.5vw;
+    margin-left: 4vw;
+    height: 0.7vw;
+    width: 25vw;
+    border: 0;
+    padding: 1vw;
+    font-size: 1.5vw;
+    color: white;
+    /* border: 1px solid yellow; */
+}
+.form input{
+    /* border: 1px solid red; */
+    display: block;
+    margin: 1vw;
+    margin-left: 5vw;
+    height: 0.7vw;
+    width: 15vw;
+    border: 0;
+    padding: 1vw;
+    font-size: 1vw;
+    /* opacity: 0.7; */
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    border-bottom: 1px solid rgb(88, 82, 82);
+    outline: none;
+}
+.circle-1{
+    border: 1px solid rgb(249, 247, 247);
+    border-radius: 50%;
+    height: 100px;
+    width: 150px;
+    /* margin-left: 4vw; */
+}
+.c-1{
+    rotate: 5deg;
+    margin-left: 6px;
+    /* color: white; */
+}
+.c-2{
+    rotate: -30deg;
+    margin-top: -100px;
+}
+.cir-content-1 p{
+    position: absolute;
+    margin-top: -60px;
+    margin-left: 20px;
+    /* padding: 0; */
+    font-weight: 600;
+    color: white;
+}
+.circle-container{
+    margin-top: 0vw;
+    margin-left: 7vw;
+    /* border: 1px solid red; */
+    padding-left: 5vw;
+}
+.buttons{
+    margin-top: -2vw;
+}
+.left-arrow-1{
+    margin: 2vw;
+    margin-left: 4vw;
+    color: white;
+}
+.right-arrow-1{
+    color: white;
+    margin: 2vw;
+    margin-left: 75vw;
+}
+.location{
+    color: white;
+    /* border: 1px dotted peachpuff; */
+    max-width: 25%;
+}
+.links{
+    color: white;
+    /* border: 1px solid plum; */
+    max-width: 20%;
+    /* margin: 1vw; */
+}
+.size-1{
+    /* border: 1px solid red;   */
+    margin: 2vw;
+    padding: 2vw;
+    padding-left: 0;
+    font-weight: bold;
+    font-size: 1.3vw;
+}
+.rest{
+    line-height: 1.1;
+    /* border: 1px solid red; */
+    margin: 1vw;
+    margin-left: 2vw;
+    /* padding: 2vw; */
+    width: 10vw;
+}

@@ -1,0 +1,20 @@
+.img-div{
+    margin-top: 10vh;
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+ul li{
+    /* border: 1px solid red; */
+    margin: 1vw;
+    margin-top: 5vh;
+}
+.image-style{
+    width: 2vw;
+    height: 2vw;
+}
+.ig-style{
+    background-image: url(./Images/ig-black.png);
+}

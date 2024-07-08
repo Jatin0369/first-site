@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Gruppo&display=swap');
+
+.font-class{
+    font-family: 'Gruppo', sans-serif;
+    font-weight: 600;
+}
+.footer-body{
+    /* border: 5px solid yellow; */
+    width: 98.9vw;
+    /* margin-left: 2vw; */
+    margin-top: 5vw;
+    margin-bottom: -1vw;
+    background-color: rgba(255, 255, 255, 0.065);
+    -webkit-backdrop-filter: blur(45px);
+    backdrop-filter: blur(0px);
+    z-index: -1;
+}
+ul{
+    list-style: none;
+    display: flex;
+}
+.options ul li{
+    font-weight: 800;
+    margin-top: -1vh;
+    margin-bottom: 4vh;
+}
+
+
